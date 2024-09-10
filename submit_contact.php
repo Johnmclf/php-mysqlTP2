@@ -36,7 +36,6 @@ return;
                 <p class="card-text"><b>Message</b> : <?php echo htmlspecialchars($_POST['message']); ?> </p>
             </div>
         </div>
-
     </div>
 
     <!-- inclusion du bas de page du site -->
